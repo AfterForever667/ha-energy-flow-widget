@@ -132,7 +132,7 @@ sensor mapping or HA connection) back to the original look.
 ## Building from source
 
 ```bash
-git clone https://github.com/<your-username>/ha-energy-flow-widget.git
+git clone https://github.com/AfterForever667/ha-energy-flow-widget.git
 cd ha-energy-flow-widget
 ./gradlew :app:assembleDebug
 ```
