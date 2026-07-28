@@ -11,6 +11,10 @@ Built with Kotlin, [Jetpack Glance](https://developer.android.com/jetpack/androi
 and WorkManager. Every entity is remappable, every card can be hidden, and the whole thing is
 themeable — so it isn't tied to any one specific solar/battery/inverter brand.
 
+> **Transparency note:** this project was entirely coded and tested with the help of AI (Claude
+> Code), with the author directing requirements and verifying behavior on a physical device. If
+> that's relevant to whether you trust or want to contribute to this project, now you know.
+
 ## Features
 
 - **Solar, Grid, Battery, Home, and Power-flow cards** — each independently shown/hidden, so the
