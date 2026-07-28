@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Neutral, static palette for v1 — no dynamic thresholds (see PLAN.md Styling). -->
+    <color name="widget_background">#FFF5F5F5</color>
+    <color name="widget_card">#FFFFFFFF</color>
+    <color name="widget_divider">#FFE0E0E0</color>
+    <color name="widget_text_primary">#FF1B1B1B</color>
+    <color name="widget_text_secondary">#FF6B6B6B</color>
+    <color name="widget_accent">#FF37474F</color>
+    <color name="widget_error">#FFB00020</color>
+</resources>

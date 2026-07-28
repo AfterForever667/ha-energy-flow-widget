@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Plain horizontal bar, no arrowhead — the "before the value" half of a flow line. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="16dp"
+    android:viewportWidth="100"
+    android:viewportHeight="16">
+    <path
+        android:fillColor="@color/widget_divider"
+        android:pathData="M0,7 L100,7 L100,9 L0,9 Z" />
+</vector>

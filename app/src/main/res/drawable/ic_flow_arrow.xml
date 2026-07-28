@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A dim horizontal line ending in an arrowhead, stretched to fill its box via FillBounds. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="16dp"
+    android:viewportWidth="100"
+    android:viewportHeight="16">
+    <path
+        android:fillColor="@color/widget_divider"
+        android:pathData="M0,7 L86,7 L86,1 L100,8 L86,15 L86,9 L0,9 Z" />
+</vector>
